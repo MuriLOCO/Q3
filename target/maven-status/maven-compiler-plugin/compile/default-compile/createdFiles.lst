@@ -1,4 +1,10 @@
+com/jose/q3/utilities/Selection.class
+com/jose/q3/enumerators/ShapeEnum.class
+com/jose/q3/shapes/Circle.class
 com/jose/q3/enumerators/OptionEnum.class
+com/jose/q3/shapes/Rectangle.class
 com/jose/q3/App.class
+com/jose/q3/shapes/Square.class
+com/jose/q3/shapes/Donut.class
 com/jose/q3/utilities/Utility.class
-com/jose/q3/utilities/Utility$1.class
+com/jose/q3/utilities/Validator.class
